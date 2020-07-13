@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import Hero from '../components/Hero'
+// import Hero from '../components/Hero'
 import Banner from '../components/Banner'
 import defaultBcg from '../images/room-1.jpeg'
 import {Link} from 'react-router-dom'
